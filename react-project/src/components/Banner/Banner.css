@@ -1,0 +1,17 @@
+.carousel-text {
+  margin-bottom: 100px;
+}
+.carousel-text button {
+  text-align: center;
+  padding: 12px 25px;
+  background-color: #7952b3;
+  color: #fff;
+  border: 1px solid #7952b3;
+  border-radius: 5px;
+  font-size: 12px;
+  transition: 0.3s;
+}
+.carousel-text button:hover {
+  background-color: transparent;
+  border: 1px solid #fff;
+}

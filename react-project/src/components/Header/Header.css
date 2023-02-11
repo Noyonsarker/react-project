@@ -1,0 +1,17 @@
+.header .navbar-nav a {
+  margin-left: 30px;
+}
+.header .navbar-nav a:last-child {
+  text-align: center;
+  padding: 8px 40px;
+  background-color: #7952b3;
+  color: #fff;
+  border: 1px solid #7952b3;
+  border-radius: 5px;
+  transition: 0.3s;
+  font-weight: bold;
+}
+.header .navbar-nav a:hover {
+  background-color: transparent;
+  color: #7952b3;
+}

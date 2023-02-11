@@ -1,0 +1,41 @@
+.service-area {
+  padding: 65px 0;
+}
+.service-area h2 {
+  text-align: center;
+}
+.single-service {
+  border: 1px solid #f1f1f1;
+  margin-top: 50px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.service-text {
+  padding: 15px;
+}
+.service-text h3 {
+  font-size: 24px;
+}
+.service-text h5 {
+  font-size: 18px;
+  font-weight: bold;
+}
+.service-text h5 {
+  font-size: 18px;
+}
+.service-text button {
+  text-align: center;
+  padding: 8px 30px;
+  margin-bottom: 10px;
+  background-color: #7952b3;
+  color: #fff;
+  border: 1px solid #7952b3;
+  border-radius: 5px;
+  transition: 0.3s;
+  text-align: center;
+}
+.service-text button:hover {
+  background-color: transparent;
+  border: 1px solid #7952b3;
+  color: #7952b3;
+}
